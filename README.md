@@ -1,1 +1,1 @@
-Task 0.Where am I?
+this repository contains soolutions to shell tasks
