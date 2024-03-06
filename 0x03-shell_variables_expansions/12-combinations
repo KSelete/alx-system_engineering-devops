@@ -1,2 +1,2 @@
 #!/bin/bash
-echo {a..z}{a..z} | tr " " "\n" | grep -v "oo"
+for i in {a..n}{a..z} {a..z}{p..z}; do echo "$i"; done
