@@ -1,5 +1,5 @@
 #!/usr/bin/python3
-"""Module for task 0"""
+"""The Module for task 0"""
 
 
 def number_of_subscribers(subreddit):
